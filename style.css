@@ -62,7 +62,8 @@ h1 {
 }
 
 .img-hover {
-  backdrop-filter: blur(3px);
+  background: black;
+  opacity: 0.4;
   transform: scale(3);
   border: none;
 }
